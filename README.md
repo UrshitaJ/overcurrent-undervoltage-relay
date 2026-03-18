@@ -92,6 +92,6 @@ The model also includes **fault logging with timestamps** and a visual interface
 
 ---
 
-## 📎 Urshita Jaiswal
+##  Urshita Jaiswal
 
-Your Name
+
