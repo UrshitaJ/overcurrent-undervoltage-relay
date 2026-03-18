@@ -1,4 +1,4 @@
-# Overcurrent and Undervoltage Protection Relay (Simulink)
+# Overcurrent and Undervoltage Protection Relay (MATLAB & Simulink)
 
 ## 📌 Overview
 
